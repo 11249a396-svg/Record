@@ -1,4 +1,4 @@
-# OOPS RECORD
+y# OOPS RECORD
 
 **1. Illustrate class & objects**
 
@@ -1080,4 +1080,4 @@ Students:
 Saved to students.txt
 
 *Result:*
-A simple menu
+A simple menu / record example ties together classes, containers,and file i/o.expandable to full CRUD operations for mini project 
